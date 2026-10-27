@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    printf("Start small. Ship something.");
+
+    return 0;
+}
